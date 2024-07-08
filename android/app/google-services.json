@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774633438327",
+    "project_id": "mynotes-david-flutterproject",
+    "storage_bucket": "mynotes-david-flutterproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774633438327:android:e7af4fc4cc7b62339f5a72",
+        "android_client_info": {
+          "package_name": "com.davidcao.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZXSbSAem-t2ampopQYWKYkxrw9sfWQmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774633438327:android:d66f0f2fcffd2ba49f5a72",
+        "android_client_info": {
+          "package_name": "com.davidcao.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZXSbSAem-t2ampopQYWKYkxrw9sfWQmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
